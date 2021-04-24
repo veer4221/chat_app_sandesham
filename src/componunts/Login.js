@@ -22,7 +22,7 @@ function Login() {
         <img src={logo1} alt="logo" />
 
         <div className="login__text">
-          <h1>Sign in to सन्देशम् App</h1>
+          <h1>Sign in to ChatApp</h1>
         </div>
         <Button type="submit" onClick={signIn}>
           Sign in With Google
